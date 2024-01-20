@@ -5,6 +5,9 @@
 [submodule "MVNBayesian"]
 	path = MVNBayesian
 	url = https://github.com/cubiczebra/mvnbayesian
+[submodule "TPMplt"]
+	path = TPMplt
+	url = https://github.com/cubiczebra/tpmplt
 [submodule "VBTree"]
 	path = VBTree
 	url = https://github.com/cubiczebra/vbtree
